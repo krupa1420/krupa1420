@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Krupa%20Patel&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%7C%20Machine%20Learning%20Engineer%20%7C%20LLM%20Developer&descAlignY=58&descSize=18" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:f7971e,50:ffd200,100:f7971e&height=220&section=header&text=Krupa%20Patel&fontSize=55&fontColor=1a1a1a&animation=fadeIn&fontAlignY=38&desc=Gen%20AI%20Developer&descAlignY=58&descSize=20" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2800&pause=900&color=36BCF7&center=true&vCenter=true&width=900&lines=AI+Engineer+%7C+Machine+Learning+Engineer;LLMs+%7C+RAG+%7C+Agentic+AI+%7C+Fine-Tuning;Former+ISRO+Research+Engineer;IEEE+Published+Researcher;Building+AI+systems+that+solve+real+problems" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2800&pause=900&color=F5A623&center=true&vCenter=true&width=900&lines=Hi%2C+I+am+Krupa+Patel;Welcome+to+my+GitHub+Profile!;Gen+AI+Developer;Building+AI+systems+that+solve+real+problems" />
 </p>
 
 <p align="center">
@@ -28,42 +28,31 @@
   </a>
 </p>
 
----
+### 🧠 About Me
 
-## About Me
+I'm **Krupa Patel**, a **Gen AI Developer** with an M.S. in Computer Science from **California State University, Northridge**.
 
-I'm **Krupa Patel**, an AI and Machine Learning Engineer with an M.S. in Computer Science from **California State University, Northridge**.
+I've done satellite image research at **ISRO**, shipped production machine learning systems, and built end-to-end projects across **LLMs, RAG, AI agents, fine-tuning, computer vision, and MLOps**.
 
-I have worked on satellite image research at **ISRO**, built production machine learning systems, and developed projects around **LLMs, RAG, AI agents, fine-tuning, computer vision, and MLOps**.
+```text
+🔭  Currently building   →  agentic AI systems with LangGraph & MCP
+🌱  Exploring            →  multi-agent orchestration, evals & guardrails
+💡  I care about         →  turning research into systems people can actually use
+📫  Reach me             →  krupapatel1420@gmail.com
+```
 
-Currently looking for full-time opportunities in:
+Open to full-time roles in `Gen AI` · `AI Engineering` · `Machine Learning` · `LLM Engineering` · `Data Science` · `MLOps`
 
-`AI Engineering` · `Machine Learning Engineering` · `LLM Engineering` · `Data Science` · `MLOps`
+### 🛠️ Tech Stack
 
----
-
-## Tech Stack
-
-### Languages
-
+#### Languages
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=mysql&logoColor=white" />
 </p>
 
-### Machine Learning & Deep Learning
-
-<p>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
-  <img src="https://img.shields.io/badge/Transformers-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
-</p>
-
-### Generative AI & Agents
-
+#### Generative AI & Agents
 <p>
   <img src="https://img.shields.io/badge/LLMs-111827?style=for-the-badge" />
   <img src="https://img.shields.io/badge/RAG-0EA5E9?style=for-the-badge" />
@@ -74,8 +63,16 @@ Currently looking for full-time opportunities in:
   <img src="https://img.shields.io/badge/MCP-7C3AED?style=for-the-badge" />
 </p>
 
-### Cloud, Backend & MLOps
+#### Machine Learning & Deep Learning
+<p>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+  <img src="https://img.shields.io/badge/Transformers-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+</p>
 
+#### Cloud, Backend & MLOps
 <p>
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
   <img src="https://img.shields.io/badge/SageMaker-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
@@ -86,8 +83,7 @@ Currently looking for full-time opportunities in:
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
 </p>
 
-### Databases & Vector Stores
-
+#### Databases & Vector Stores
 <p>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
@@ -96,24 +92,23 @@ Currently looking for full-time opportunities in:
   <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
 </p>
 
----
-
-## Featured Projects
+### 🚀 Featured Projects
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### AnalystAI
+#### AnalystAI
 
 <img src="assets/analystai-demo.png" alt="AnalystAI dashboard — natural language to SQL with charts and AI insights" width="100%" />
 
 Fine-tuned **LLaMA-3.2 3B** for Text-to-SQL using QLoRA.
 
-- 94% SQL accuracy
-- 7,300+ training samples
-- Gradio dashboard
-- Plotly visualizations
+![Accuracy](https://img.shields.io/badge/SQL_Accuracy-94%25-22c55e?style=flat-square)
+![Data](https://img.shields.io/badge/Training_Samples-7.3K+-0ea5e9?style=flat-square)
+
+- Natural language → SQL with live execution
+- Gradio dashboard + Plotly visualizations
 - Hugging Face model publishing
 
 <a href="https://github.com/krupa1420/AnalystAI">
@@ -121,20 +116,22 @@ Fine-tuned **LLaMA-3.2 3B** for Text-to-SQL using QLoRA.
 </a>
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-### Medical RAG Chatbot
+#### Medical RAG Chatbot
 
 <img src="assets/medical-rag-demo.png" alt="MediGuide Chat — RAG-grounded medical Q&A assistant" width="100%" />
 
-Medical Q&A system using RAG with LLaMA, LangChain, and Pinecone.
+Medical Q&A grounded in a book corpus with **RAG**.
 
-- Retrieval-Augmented Generation
-- MMR reranking
-- AWS EC2 deployment
-- CI/CD pipeline
+![Stack](https://img.shields.io/badge/LLaMA_+_LangChain_+_Pinecone-0ea5e9?style=flat-square)
+![Deploy](https://img.shields.io/badge/AWS_EC2_+_CI%2FCD-FF9900?style=flat-square)
 
-<a href="https://github.com/krupa1420/MedicalChatbot">
+- Retrieval-Augmented Generation + MMR reranking
+- Source-grounded, citation-aware answers
+- Deployed on AWS EC2 with CI/CD
+
+<a href="https://github.com/krupa1420/MedicalChatbot-">
   <img src="https://img.shields.io/badge/View%20Project-Medical%20RAG-36BCF7?style=for-the-badge&logo=github" />
 </a>
 
@@ -142,33 +139,36 @@ Medical Q&A system using RAG with LLaMA, LangChain, and Pinecone.
 </tr>
 
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### ResearchAgent
+#### ResearchAgent
 
-Agentic AI research workflow using LangGraph and MCP.
+Agentic AI research workflow using **LangGraph** and **MCP**.
 
-- Multi-agent workflow
-- Firecrawl integration
-- LangSmith tracing
-- RAGAS evaluation
-- Guardrails AI
+![Type](https://img.shields.io/badge/Multi--Agent-7C3AED?style=flat-square)
+![Eval](https://img.shields.io/badge/RAGAS_+_Guardrails-f97316?style=flat-square)
 
-<a href="https://github.com/krupa1420/ResearchAgent">
+- Multi-agent orchestration workflow
+- Firecrawl web research + LangSmith tracing
+- RAGAS evaluation + Guardrails AI
+
+<a href="https://github.com/krupa1420/ResearchAgent-">
   <img src="https://img.shields.io/badge/View%20Project-ResearchAgent-36BCF7?style=for-the-badge&logo=github" />
 </a>
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-### Satellite Image Denoising
+#### Satellite Image Denoising
 
-Hybrid satellite image denoising using SwinIR and DDPM.
+Hybrid satellite image denoising using **SwinIR** and **DDPM**.
 
-- 33.23 dB PSNR
-- 0.89 SSIM
+![PSNR](https://img.shields.io/badge/PSNR-33.23_dB-22c55e?style=flat-square)
+![SSIM](https://img.shields.io/badge/SSIM-0.89-0ea5e9?style=flat-square)
+
 - Beat 10+ benchmark methods
 - TensorFlow implementation
+- Foundation for IEEE-published research
 
 <a href="https://github.com/krupa1420/Denoising">
   <img src="https://img.shields.io/badge/View%20Project-Denoising-36BCF7?style=for-the-badge&logo=github" />
@@ -178,22 +178,18 @@ Hybrid satellite image denoising using SwinIR and DDPM.
 </tr>
 </table>
 
----
-
-## Research
+### 📄 Research
 
 **RJB-Net: Residual Deep Learning with Joint Bilateral Denoising Network for Remote Sensing Image Fusion**  
 Published at **IEEE IGARSS 2023**
 
 <p>
-  <a href="https://doi.org/10.1109/IGARSS52108.2023.10269990">
+  <a href="https://ieeexplore.ieee.org/document/10269990">
     <img src="https://img.shields.io/badge/IEEE%20Publication-View%20Paper-00629B?style=for-the-badge&logo=ieee&logoColor=white" />
   </a>
 </p>
 
----
-
-## Certification
+### 🏆 Certification
 
 <p>
   <a href="https://www.credly.com/earner/earned/badge/7e654d34-03bc-4e63-90be-8055fa000e66">
@@ -201,9 +197,7 @@ Published at **IEEE IGARSS 2023**
   </a>
 </p>
 
----
-
-## GitHub Statistics
+### 📊 GitHub Statistics
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=krupa1420&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
@@ -214,9 +208,7 @@ Published at **IEEE IGARSS 2023**
   <img src="https://streak-stats.demolab.com?user=krupa1420&theme=tokyonight&hide_border=true" />
 </p>
 
----
-
-## Contribution Snake
+### 🐍 Contribution Snake
 
 <p align="center">
   <picture>
@@ -226,12 +218,15 @@ Published at **IEEE IGARSS 2023**
   </picture>
 </p>
 
----
+<br>
 
 <p align="center">
-  <b>Open to full-time roles in AI, ML, LLM Engineering, Data Science, and MLOps.</b>
+  <b>💬 Building something in Gen AI? Let's talk.</b><br>
+  <a href="https://www.linkedin.com/in/krupapatel91/">LinkedIn</a> &nbsp;·&nbsp;
+  <a href="mailto:krupapatel1420@gmail.com">Email</a> &nbsp;·&nbsp;
+  <a href="https://krupa1420.github.io/krupaportfolio/">Portfolio</a>
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:f7971e,50:ffd200,100:f7971e&height=120&section=footer" />
 </p>
