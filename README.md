@@ -7,14 +7,14 @@
 </p>
 
 <p align="center">
-  🛰️ <b>Ex-ISRO Research Engineer</b> &nbsp;·&nbsp; 📄 <b>IEEE Published</b> &nbsp;·&nbsp; ☁️ <b>AWS Certified AI Practitioner</b>
+  🛰️ <b>AI/ML Engineer</b> &nbsp;·&nbsp; 📄 <b>IEEE Published</b> &nbsp;·&nbsp; ☁️ <b>AWS Certified AI Practitioner</b>
 </p>
 
 <p align="center">
-  <a href="mailto:krupapatel1420@gmail.com">
-    <img src="https://img.shields.io/badge/Email-krupapatel1420%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="mailto:krupabenalpeshkumarpatel@gmail.com">
+    <img src="https://img.shields.io/badge/Email-krupabenalpeshkumarpatel@gmail.com -D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/krupapatel91/">
+  <a href="https://www.linkedin.com/in/krups04/">
     <img src="https://img.shields.io/badge/LinkedIn-Krupa%20Patel-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/krupa1420">
@@ -32,13 +32,12 @@
 
 I'm **Krupa Patel**, a **Gen AI Developer** with an M.S. in Computer Science from **California State University, Northridge**.
 
-I've done satellite image research at **ISRO**, shipped production machine learning systems, and built end-to-end projects across **LLMs, RAG, AI agents, fine-tuning, computer vision, and MLOps**.
 
 ```text
 🔭  Currently building   →  agentic AI systems with LangGraph & MCP
 🌱  Exploring            →  multi-agent orchestration, evals & guardrails
 💡  I care about         →  turning research into systems people can actually use
-📫  Reach me             →  krupapatel1420@gmail.com
+📫  Reach me             →  krupabenalpeshkumarpatel@gmail.com
 ```
 
 Open to full-time roles in `Gen AI` · `AI Engineering` · `Machine Learning` · `LLM Engineering` · `Data Science` · `MLOps`
